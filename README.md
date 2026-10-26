@@ -20,6 +20,13 @@
             src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
+  <a href="mailto:fserrao885@gmail">
+    <img
+        alt="Email"
+        title="e-mail"
+        src="https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />  
+    </a>
 </p>
 
 ### 🤖 **Linguagens e Tecnologias**
