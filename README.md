@@ -3,8 +3,25 @@
 ### 🔬 **Sobre mim**
 - 🎓 Graduado em **Biotecnologia** pela **UFPA**
 - 🧪 Mestrando no **PPGBM/UFPA** (Genética e Biologia Molecular)
-- 🌱 Aprendendo: **Nextflow, R/Bioconductor, Linux**
- 
+- 📚 Aprendendo: **Nextflow, R/Bioconductor, Linux**
+
+ <p align="left">
+    <a href="https://www.linkedin.com/in/felipe-serrao-a60498205?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+        <img
+            alt="LinkedIn"
+            title="Me siga no LinkedIn"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://www.instagram.com/lipe_serrao885?srtk=MXU3YmgzeTN1dWlrNA==">
+        <img
+            alt="Instagram"
+            title="Me siga no Instagram"
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+</p>
+
 ### 🤖 **Linguagens e Tecnologias**
 
 <img align="left" alt="R" title="R" width="30px" style="padding-right: 10px;"
