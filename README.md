@@ -1,6 +1,11 @@
-Olá, me chamo Felipe Serrao 
+# **Felipe Mateus Souza Serrao**
 
-### 🤖 Linguagens e Tecnologias
+### 🔬 **Sobre mim**
+- 🎓 Graduado em **Biotecnologia** pela **UFPA**
+- 🧪 Mestrando no **PPGBM/UFPA** (Genética e Biologia Molecular)
+- 🌱 Aprendendo: **Nextflow, R/Bioconductor, Linux**
+ 
+### 🤖 **Linguagens e Tecnologias**
 
 <img align="left" alt="R" title="R" width="30px" style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
