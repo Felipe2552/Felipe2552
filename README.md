@@ -6,6 +6,19 @@
 - 📚 Aprendendo: **Nextflow, R/Bioconductor, Linux**
 
 <p align="left">
+    <a href="https://lattes.cnpq.br/5560320138580802">
+        <img
+            alt="Lattes"
+            title="Meu currículo Lattes"
+            src="https://custom-icon-badges.demolab.com/badge/Lattes-004B8D?style=for-the-badge"
+        />
+    </a>
+    <a href="https://orcid.org/0009-0002-0117-2704">
+        <img
+            alt="ORCID"
+            title="Meu perfil ORCID"
+            src="https://custom-icon-badges.demolab.com/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"
+            />
     <a href="https://www.linkedin.com/in/felipe-serrao-a60498205">
         <img
             alt="LinkedIn"
