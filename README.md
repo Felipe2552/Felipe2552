@@ -1,4 +1,4 @@
-# **Felipe Mateus Souza Serrao**
+# **Felipe Mateus Souza Serrão**
 
 ### 🔬 **Sobre mim**
 - 🎓 Graduado em **Biotecnologia** pela **UFPA**
@@ -18,7 +18,8 @@
             alt="ORCID"
             title="Meu perfil ORCID"
             src="https://custom-icon-badges.demolab.com/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"
-            />
+        />
+    </a>
     <a href="https://www.linkedin.com/in/felipe-serrao-a60498205">
         <img
             alt="LinkedIn"
@@ -49,9 +50,14 @@
   <img alt="Python" title="Python" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;
   <img alt="Git" title="Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;&nbsp;
   <img alt="Linux" title="Linux" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />&nbsp;&nbsp;
-    />
+  <img alt="Nextflow" title="Nextflow" height="30" src="https://img.shields.io/badge/Nextflow-23CC85?style=flat&logo=nextflow&logoColor=white" />
 </p>
 
+### 📁 **Projetos**
+
+- [comandos_linux](https://github.com/Felipe2552/comandos_linux): comandos básicos de Linux com exercícios e gabarito (em construção)
+
+<!--
 ### 📊 **Estatísticas**
 
 <p align="center">
@@ -60,19 +66,13 @@
   <img alt="Top Linguagens" height="170"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe2552&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
+-->
 
 ### 📍 **Localização**
-
-<!--
-<p align="center">
-  <img src="./assets/mapa-para-belem.svg" width="320" alt="Mapa do Brasil com o Pará destacado e Belém marcada">
-</p>
--->
 
 <p align="center">
   <a href="https://www.google.com/maps/search/?api=1&query=Universidade+Federal+do+Pará+Campus+Guamá+Belém">
     <b>Universidade Federal do Pará (UFPA)</b>
   </a><br>
-  Rua Augusto Corrêa, 01 • Campus Universitário do Guamá<br>
-  Belém, Pará, Brasil • CEP 66075-110
+  Belém, Pará, Brasil
 </p>
