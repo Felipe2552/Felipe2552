@@ -55,7 +55,7 @@
 
 ### 📁 **Projetos**
 
-- [comandos_linux](https://github.com/Felipe2552/comandos_linux): comandos básicos de Linux com exercícios e gabarito (em construção)
+- [comandos_linux](https://github.com/Felipe2552/comandos_linux): comandos básicos de Linux
 
 <!--
 ### 📊 **Estatísticas**
