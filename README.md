@@ -46,16 +46,17 @@
 ### 🤖 **Linguagens e Tecnologias**
 
 <p align="left">
-  <img alt="R" title="R" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />&nbsp;&nbsp;
-  <img alt="Python" title="Python" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;
   <img alt="Git" title="Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;&nbsp;
   <img alt="Linux" title="Linux" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />&nbsp;&nbsp;
-  <img alt="Nextflow" title="Nextflow" height="30" src="https://img.shields.io/badge/Nextflow-23CC85?style=flat&logo=nextflow&logoColor=white" />
+  <img alt="Nextflow" title="Nextflow" height="30" src="https://img.shields.io/badge/Nextflow-23CC85?style=flat&logo=nextflow&logoColor=white" />&nbsp;&nbsp;
+  <img alt="Python" title="Python" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;
+  <img alt="R" title="R" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />&nbsp;&nbsp;
+  <img alt="SQL" title="SQL" height="30" src="https://img.shields.io/badge/SQL-336791?style=flat" />
 </p>
 
 ### 📁 **Projetos**
 
-- [comandos_linux](https://github.com/Felipe2552/comandos_linux): comandos básicos de Linux
+- [Comandos_linux](https://github.com/Felipe2552/comandos_linux): comandos básicos de Linux
 
 <!--
 ### 📊 **Estatísticas**
